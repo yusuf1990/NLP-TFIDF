@@ -1,2 +1,2 @@
 # NLP-TFIDF
-Exploring the usecases of tfidf
+Exploring the usecase of tfidf
